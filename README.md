@@ -46,7 +46,7 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
 </div>
 <p>
-  <img src="/assets/images/HCLDomino50.png" title="HCL Domino" alt="HCL Domino" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLDomino50.png" title="HCL Domino" alt="HCL Domino" width="0" height="50"/><br/>
   <img src="/assets/images/HCLNotes_Light_Horizontal_50.png" title="HCL Notes" alt="HCL Notes" width="50" height="50"/><br/>
   <img src="/assets/images/HCLVerse_Light_Horizontal_50.png" title="HCL Verse" alt="HCL Verse" width="50" height="50"/><br/>
   <img src="/assets/images/HCLNomad_Light_Box_Horizontal_50.png" title="HCL Nomad" alt="HCL Nomad" width="50" height="50"/><br/>
