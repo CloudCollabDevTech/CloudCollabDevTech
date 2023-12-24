@@ -1,11 +1,12 @@
 <p align="center"><img src="/assets/images/logo.svg" width="150"/></p>
-<p align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rishabsharma/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/rishabsharma/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+  </p>
 </div>
-</p>
+
 <p align="center">
 
 - 👋 Hi, I’m Rishab Sharma@CloudCollabDevTech
