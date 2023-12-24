@@ -46,16 +46,16 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
 </div>
 <p>
-  <img src="/assets/images/HCLDomino50.png" title="HCL Domino" alt="HCL Domino" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLNotes_Light_Horizontal_50.png" title="HCL Notes" alt="HCL Notes" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLVerse_Light_Horizontal_50.png" title="HCL Verse" alt="HCL Verse" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLNomad_Light_Box_Horizontal_50.png" title="HCL Nomad" alt="HCL Nomad" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLConnections50.png" title="HCL Connections" alt="HCL Connections" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLSametime_Light_Horizontal_50.png" title="HCL Sametime" alt="HCL Sametime" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLDigitalExperience50.png" title="HCL Digital Experience" alt="HCL Digital Experience" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLSoFy_Color_Horizontal_100.png" title="HCL Sofy" alt="HCL Sofy" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLLeap_Light_Horizontal_100.png" title="HCL Leap" alt="HCL Leap" width="125" height="75"/><br/>
-  <img src="/assets/images/HCLVoltMX_Light_Box_Horizontal_50.png" title="HCL Volt MX" alt="HCL Volt MX" width="125" height="75"/><br/>
+  <img src="/assets/images/HCLDomino50.png" title="HCL Domino" alt="HCL Domino" width="125" height="75"/>&nbsp;
+  <img src="/assets/images/HCLNotes_Light_Horizontal_50.png" title="HCL Notes" alt="HCL Notes" width="125" height="50"/>&nbsp;
+  <img src="/assets/images/HCLVerse_Light_Horizontal_50.png" title="HCL Verse" alt="HCL Verse" width="125" height="50"/>&nbsp;
+  <img src="/assets/images/HCLNomad_Light_Box_Horizontal_50.png" title="HCL Nomad" alt="HCL Nomad" width="125" height="50"/><br/>
+  <img src="/assets/images/HCLConnections50.png" title="HCL Connections" alt="HCL Connections" width="125" height="50"/>&nbsp;
+  <img src="/assets/images/HCLSametime_Light_Horizontal_50.png" title="HCL Sametime" alt="HCL Sametime" width="125" height="50"/>&nbsp;
+  <img src="/assets/images/HCLDigitalExperience50.png" title="HCL Digital Experience" alt="HCL Digital Experience" width="50" height="75"/><br/>
+  <img src="/assets/images/HCLSoFy_Color_Horizontal_100.png" title="HCL Sofy" alt="HCL Sofy" width="125" height="50"/>&nbsp;
+  <img src="/assets/images/HCLLeap_Light_Horizontal_100.png" title="HCL Leap" alt="HCL Leap" width="125" height="50"/>&nbsp;
+  <img src="/assets/images/HCLVoltMX_Light_Box_Horizontal_50.png" title="HCL Volt MX" alt="HCL Volt MX" width="125" height="50"/><br/>
 
 </p>
 
