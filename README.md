@@ -1,4 +1,4 @@
-<p align="center"><img src="/assets/images/linkedin_banner_image_1.png" width="100"/></p>
+<p align="center"><img src="/assets/images/logo_transparent.png" width="150"/></p>
 <p align="center">
 
 - 👋 Hi, I’m Rishab Sharma@CloudCollabDevTech
