@@ -31,7 +31,33 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 
 ## :hammer_and_wrench: Solutions Languagues and Tools :
 
----
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" title="CentOS" alt="CentOS" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" alt="GoogleCloud" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" title="RedHat" alt="RedHat" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/k3s/k3s-original-wordmark.svg" title="K3S" alt="K3S" width="60" height="60"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="60" height="60"/>&nbsp;
+</div>
+<p>
+  <img src="/assets/images/HCLDomino50.png" title="HCL Domino" alt="HCL Domino" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLNotes_Light_Horizontal_50.png" title="HCL Notes" alt="HCL Notes" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLVerse_Light_Horizontal_50.png" title="HCL Verse" alt="HCL Verse" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLNomad_Light_Box_Horizontal_50.png" title="HCL Nomad" alt="HCL Nomad" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLConnections50.png" title="HCL Connections" alt="HCL Connections" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLSametime_Light_Horizontal_50.png" title="HCL Sametime" alt="HCL Sametime" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLDigitalExperience50.png" title="HCL Digital Experience" alt="HCL Digital Experience" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLSoFy_Color_Horizontal_100.png" title="HCL Sofy" alt="HCL Sofy" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLLeap_Light_Horizontal_100.png" title="HCL Leap" alt="HCL Leap" width="50" height="50"/><br/>
+  <img src="/assets/images/HCLVoltMX_Light_Box_Horizontal_50.png" title="HCL Volt MX" alt="HCL Volt MX" width="50" height="50"/><br/>
+
+</p>
 
 ## :fire: My Stats :
 
