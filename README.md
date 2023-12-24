@@ -11,13 +11,13 @@
 </p>
 <hr/>
 <p align="center">
-  <img src="./assets/images/rishabsharmanew-circle.png" width="150">
+  <img src="./assets/images/rishabsharmanew-circle.png" width="125">
 </p>
 <h1 align="center">
   Rishab Sharma
 </h1>
-<hr/>
-
+## About Me
+Current working as Director - Technical - South Asia at [HCL Software](https://www.hcl-software.com "HCL Software")
 - 👋 Hi, I’m Rishab Sharma@CloudCollabDevTech
 - 👀 I’m interested in ...Coding, Technology and other topics
 - 🌱 I’m currently learning ...various things
