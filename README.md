@@ -9,14 +9,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CloudCollabDevTech&style=flat-square&color=blue" alt="CloudCollabDevTech Github Stats">
 </p>
-<hr />
+<hr/>
 <p align="center">
   <img src="./assets/images/rishabsharmanew-circle.png" width="150">
 </p>
 <h1 align="center">
   Rishab Sharma
 </h1>
-<hr>
+<hr/>
 
 - 👋 Hi, I’m Rishab Sharma@CloudCollabDevTech
 - 👀 I’m interested in ...Coding, Technology and other topics
