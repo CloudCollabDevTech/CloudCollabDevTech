@@ -37,11 +37,13 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CloudCollabDevTech&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCollabDevTech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CloudCollabDevTech&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### ✍️ Blog Posts :
+
+<a href="/blog/index.html">My Blog</a>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
