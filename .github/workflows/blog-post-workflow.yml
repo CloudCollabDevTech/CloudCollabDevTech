@@ -1,21 +1,20 @@
-feed_list:
-
-name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
-
+  push:
+  schedule:
+    - cron: "0 */6 * * *"
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  blog:
     runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Generate
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_list: "https://blog.cloudcollabdevtech.com/feed_rss_created.xml"
+          feed_urls: https://blog.cloudcollabdevtech.com/feed_rss_created.xml
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
