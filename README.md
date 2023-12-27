@@ -71,5 +71,5 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 
 <a href="https://blog.cloudcollabdevtech.com/blog/index.html">My Blog</a>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
