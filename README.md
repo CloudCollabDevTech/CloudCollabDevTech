@@ -29,7 +29,7 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 
 ---
 
-## :hammer_and_wrench: Solutions Languagues and Tools :
+## :hammer_and_wrench: Some Tools I Have Used and Learned :
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
