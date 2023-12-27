@@ -72,4 +72,17 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 <a href="https://blog.cloudcollabdevtech.com/blog/index.html">My Blog</a>
 
 <!-- blog-post-list:start -->
+## Blog \- CloudCollabDevTech
+
+This website will contain information pertaining to all aspects of Cloud, Collaboration, Development and Technology in general.
+
+[Read more](https://blog.cloudcollabdevtech.com/)
+> Last updated: Wednesday, December 27, 2023 at 3:55:58 PM
+
+> Showing 2 of 2 posts.
+
+[![HCL Domino 14 - Why Upgrade](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/HCL_Domino_14_-_Why_Upgrade.svg)](https://blog.cloudcollabdevtech.com/blog/2023/12/27/hcl-domino-14---why-upgrade.html)
+[![Event Logging from Domino on Windows to Linux Syslog](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/Event_Logging_from_Domino_on_Windows_to_Linux_Syslog.svg)](https://blog.cloudcollabdevtech.com/blog/2023/12/18/event-logging-from-domino-on-windows-to-linux-syslog.html)
+
+
 <!-- blog-post-list:end -->
