@@ -77,7 +77,7 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 This website will contain information pertaining to all aspects of Cloud, Collaboration, Development and Technology in general.
 
 [Read more](https://blog.cloudcollabdevtech.com/)
-> Last updated: Saturday, January 6, 2024 at 6:11:58 PM
+> Last updated: Sunday, January 7, 2024 at 12:54:49 AM
 
 > Showing 3 of 3 posts.
 
