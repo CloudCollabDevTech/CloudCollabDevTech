@@ -77,10 +77,11 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 This website will contain information pertaining to all aspects of Cloud, Collaboration, Development and Technology in general.
 
 [Read more](https://blog.cloudcollabdevtech.com/)
-> Last updated: Saturday, January 20, 2024 at 12:18:09 PM
+> Last updated: Saturday, January 20, 2024 at 6:12:25 PM
 
-> Showing 4 of 4 posts.
+> Showing 5 of 5 posts.
 
+[![Low-Code No-Code or UDP Powered by HCL Volt MX - Primer Series 2 / N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/Low-Code_No-Code_or_UDP_Powered_by_HCL_Volt_MX_-_Primer_Series_2___N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/01/20/low-code-no-code-or-udp-powered-by-hcl-volt-mx---primer-series-2--n.html)
 [![Low-Code No-Code or UDP Powered by Volt MX - Primer Series 1 / N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/Low-Code_No-Code_or_UDP_Powered_by_Volt_MX_-_Primer_Series_1___N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/01/11/low-code-no-code-or-udp-powered-by-volt-mx---primer-series-1--n.html)
 [![HCL Domino 14 - Why Upgrade - Part 2](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/HCL_Domino_14_-_Why_Upgrade_-_Part_2.svg)](https://blog.cloudcollabdevtech.com/blog/2024/01/02/hcl-domino-14---why-upgrade---part-2.html)
 [![HCL Domino 14 - Why Upgrade](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/HCL_Domino_14_-_Why_Upgrade.svg)](https://blog.cloudcollabdevtech.com/blog/2023/12/27/hcl-domino-14---why-upgrade.html)
