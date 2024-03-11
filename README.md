@@ -77,15 +77,15 @@ Current working as :man_technologist: Director - Technical - South Asia at [HCL 
 This website will contain information pertaining to all aspects of Cloud, Collaboration, Development and Technology in general.
 
 [Read more](https://blog.cloudcollabdevtech.com/)
-> Last updated: Monday, March 11, 2024 at 6:13:32 AM
+> Last updated: Monday, March 11, 2024 at 12:18:55 PM
 
-> Showing 5 of 8 posts.
+> Showing 5 of 9 posts.
 
+[![UDP (Low-Code No-Code) - Powered by HCL Volt MX - Primer Series 6/N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/UDP_(Low-Code_No-Code)_-_Powered_by_HCL_Volt_MX_-_Primer_Series_6_N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/03/11/udp-low-code-no-code---powered-by-hcl-volt-mx---primer-series-6n.html)
 [![UDP (Low-Code No-Code) - Powered by HCL Volt MX - Primer Series 5/N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/UDP_(Low-Code_No-Code)_-_Powered_by_HCL_Volt_MX_-_Primer_Series_5_N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/03/01/udp-low-code-no-code---powered-by-hcl-volt-mx---primer-series-5n.html)
 [![UDP (Low-Code No-Code) - Powered by HCL Volt MX - Primer Series 4 / N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/UDP_(Low-Code_No-Code)_-_Powered_by_HCL_Volt_MX_-_Primer_Series_4___N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/02/15/udp-low-code-no-code---powered-by-hcl-volt-mx---primer-series-4--n.html)
 [![UDP (Low-Code No-Code) - Powered by HCL Volt MX - Primer Series 3 / N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/UDP_(Low-Code_No-Code)_-_Powered_by_HCL_Volt_MX_-_Primer_Series_3___N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/01/30/udp-low-code-no-code---powered-by-hcl-volt-mx---primer-series-3--n.html)
 [![Low-Code No-Code or UDP Powered by HCL Volt MX - Primer Series 2 / N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/Low-Code_No-Code_or_UDP_Powered_by_HCL_Volt_MX_-_Primer_Series_2___N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/01/20/low-code-no-code-or-udp-powered-by-hcl-volt-mx---primer-series-2--n.html)
-[![Low-Code No-Code or UDP Powered by Volt MX - Primer Series 1 / N](https://raw.githubusercontent.com/CloudCollabDevTech/CloudCollabDevTech/main/blog-post-list-output/Blog_-_CloudCollabDevTech/Low-Code_No-Code_or_UDP_Powered_by_Volt_MX_-_Primer_Series_1___N.svg)](https://blog.cloudcollabdevtech.com/blog/2024/01/11/low-code-no-code-or-udp-powered-by-volt-mx---primer-series-1--n.html)
 
 
 <!-- blog-post-list:end -->
